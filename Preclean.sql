@@ -133,4 +133,4 @@ FROM `project-b498b95d-28d9-4cd7-978.trip_data.Q1_trips`
 --NOTE: Yes the only values in this field are 'member' or 'casual'
 
 --Now we are ready to clean the data and then analyze it.
---go to Cleaned.sql
+--go to Clean Dataset.sql
