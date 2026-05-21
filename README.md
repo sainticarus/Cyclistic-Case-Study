@@ -13,8 +13,8 @@ Initially, I was assigned a fictional role from CYCLISTIC, the bike-sharing comp
 License is for free, and public use sourced from DIVVY, and LYFT.
 To ensure practical protocols of data privacy, no PII (personal identifying information) is found within these documents.
 
-The first 3 months (January 2026 to March 2026) of Cyclistic trip data was downloaded and stored locally as .csv files in a YYYYMM-CompanyName-TripData format. My current computer could not handle a larger workload. So this excercise will focus on the practicality of
-manipulating complex data structures, and reconfiguring them into meaningful insights. 
+Nevertheless, The first 3 months (January 2026 to March 2026) of Cyclistic trip data was downloaded and stored locally as .csv files in a YYYYMM-CompanyName-TripData format. My current computer could not handle a larger workload. So this excercise will focus on the practicality of
+manipulating complex data structures in a short time frame, and reconfiguring them into meaningful insights. 
 
 ## ASK
 The data is determined to be comprehensive, but contains some flaws. Most notably nulls, and outliers as seen in Process Report.sql
@@ -22,7 +22,7 @@ Since the massd of data in each .csv file is large I will provide an access link
 (<https://divvy-tripdata.s3.amazonaws.com/index.html>)
 
 
-Next, I will ask myself what relates to eachother within the schemas of data, and how they can be viewed in correlation to eachother. After review, there were ample empty station values that represents the potential outliers in the data. Complex data cleaning must be arranged in order to manage outstanding file sizes.
+Next, I would ask myself what relates to eachother within the schemas of data, and how they can be viewed in correlation to eachother. After review, there were ample empty station values that represents the potential outliers in the data. Complex data cleaning must be arranged in order to manage outstanding file sizes, and provide clear insights for stakeholders. (Lily, the marketing team, and the executive team)
 
 ## PREPARE
 
