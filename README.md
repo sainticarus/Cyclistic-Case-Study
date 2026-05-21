@@ -34,7 +34,7 @@ Visuals made in Tableau (<https://public.tableau.com/app/profile/mark.jackson821
 .
 After analysis, we learned casual members do not share clear conversion metrics within the dataset. More data would be required to effectively answer the other questions, and be demonstrated within consideration of a review within new deadlines.
 
-In conclusion, we should integrate more methods of statistical analysis for the rest of 2026.  We could attain more essential, and unique data metrics of the current year. We could improve how we approach Moreno's questions. As a service for the people we shoudl have an understanding where our digital footprint currently is as it will help us grow.
+In conclusion, we should integrate more methods of statistical analysis for the rest of 2026.  We could attain more essential, and unique data metrics of the current year. We could improve how we approach Moreno's questions. As a service for the people we should have an understanding where our digital footprint currently is as it will help us grow.
 
 I would suggest to SHARE:
 
