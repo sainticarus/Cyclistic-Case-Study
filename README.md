@@ -1,4 +1,4 @@
-# Case-Study-Cyclistic
+# Case-Study-with-Cyclistic
 Google Data Analytics Capstone Project
 
 Topic: Cyclistic Case Study directed by Lily Moreno
