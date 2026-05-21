@@ -2,6 +2,7 @@
 Google Data Analytics Capstone Project
 
 Topic: Cyclistic Case Study directed by Lily Moreno
+Date: 05/21/2026
 
 I, Mark Jackson, worked between SQL(BigQuery), R, EXCEL/Sheets, and TABLEAU for visualizations here. 
 
