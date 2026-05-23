@@ -37,7 +37,8 @@ Below, the code is made to provide instantenous output of each table based on th
 Then I focused on the largest dataset by including stations with only one station listed at start or end of ride.
 
 ## ANALYZE
-Visuals made in Tableau (<https://public.tableau.com/app/profile/mark.jackson8218/viz/CaseStudyCyclisticGoogleDataAnalysis/Dashboard7#1>)
+(<https://public.tableau.com/app/profile/mark.jackson8218/viz/CaseStudyCyclisticGoogleDataAnalysis/Dashboard7#1>)
+
 .
 .
 .
