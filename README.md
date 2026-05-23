@@ -13,12 +13,13 @@ Initially, I was assigned a fictional role from CYCLISTIC, a bike-sharing compan
 License is for free, and public use sourced from DIVVY, and LYFT.
 To ensure practical protocols of data privacy, no PII (personal identifying information) is found within these documents.
 
-Nevertheless, The first 3 months (January 2026 to March 2026) of Cyclistic trip data was downloaded and stored locally as .csv files in a YYYYMM-CompanyName-TripData format. My current computer could not process a larger workload-- so this excercise will focus on the practicality of
+Nevertheless, The first 3 months from January 2026 to March 2026 of Cyclistic's trip data was downloaded and stored locally as .csv files in a YYYYMM-CompanyName-TripData format. My current computer could not process a larger workload-- so this excercise will focus on the practicality of
 manipulating complex data structures in a short time frame, and reconfiguring them into meaningful insights. 
 
 ## ASK
 The data is determined to be comprehensive, but contains some flaws. Most notably nulls, and outliers as seen in Process Report.sql
-Since the massd of data in each .csv file is large I will provide an access link here as an example of what can also be intergrated with this analysis.
+
+Since the file size data in each .csv file is large I will provide an access link here as an example of what can also be intergrated with this analysis.
 (<https://divvy-tripdata.s3.amazonaws.com/index.html>)
 
 
