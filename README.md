@@ -55,7 +55,7 @@ I would suggest to SHARE:
 
 3) Build a community that reminds riders of their redeeming qualities of being a customer, and/or share positive experiences of the community converting to annual within CYCLISTIC.
 
-Why? To show our consumers we care about their overall experience with us! 
+Why? To show our consumers we care about their overall experience with us, and show our appreciation! 
 
 Thanks for reviewing this, and if you have any feedback, would like to connect, and/or need mentorship I am also looking for experiences with connecting to other Data Analysts, Data Scientists, or Engineers as well. You can find me via my portfolio here on Kaggle, as well as other DMRs like Github, and potentially soon to Youtube!
 
