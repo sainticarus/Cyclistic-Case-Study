@@ -2,11 +2,11 @@
 Google Data Analytics Capstone Project
 
 Topic: Cyclistic Case Study directed by Lily Moreno
-Date: 05/21/2026
+Date: 05/21/2026 Updated on 06/05/2026*
 
 I, Mark Jackson, worked between SQL(BigQuery), R, EXCEL/Sheets, and TABLEAU for visualizations here. 
-Now including a Python edition in a new repository!
-(<https://github.com/sainticarus/Case-Study-Cyclistic-Python/>)
+*Now including a refined Python edition within a new repository!*
+*(<https://github.com/sainticarus/Case-Study-Cyclistic-Python/>)*
 
 (<https://public.tableau.com/app/profile/mark.jackson8218/viz/CaseStudyCyclisticGoogleDataAnalysis/Dashboard7#1>)
 
